@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "971052637314",
+    "firebase_url": "https://convertexample-426f4.firebaseio.com",
+    "project_id": "convertexample-426f4",
+    "storage_bucket": "convertexample-426f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971052637314:android:f9961353ab18f7c862e89b",
+        "android_client_info": {
+          "package_name": "com.hms.demo.convertexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971052637314-9nuq9l459m46it17vjnsj7vhorfirs58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKJp3WRAbFKVvmzBXJ-LU4yg9U_S9sC-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971052637314-9nuq9l459m46it17vjnsj7vhorfirs58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
